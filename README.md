@@ -10,7 +10,7 @@ Some creations to make life easier
   </tr>
   <tr>
     <td align="center">
-	<a href="./leds_strip_holder">Led Strip Holder
+	<a href="./Led_strip_holder">Led Strip Holder
 	  <br>
 	  <img src="./Led_strip_holder/Images/concept_screenshot.png" alt="1" width=300px>
 	</a>
