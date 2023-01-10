@@ -1,4 +1,4 @@
-<h1 align="center">Life_Hack - Coming soon ;-)</h1>
+<h1 align="center">Life_Hack - More will Come soon ;-)</h1>
 
 Some creations to make life easier
 
