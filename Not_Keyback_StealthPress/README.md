@@ -3,7 +3,7 @@
  <p align="center">Designed to save space on the back of the StealthPress,<br> this mod « Compact Not Keyback » Is thinner and saves space when storing.</p>
 
 
-<p align=center><a href="https://fr.aliexpress.com/item/1005005880175554.html" target="blank">the Not Keyback hardware (500g is ok, 1kg is too much) </a></p>
+<p align=center>the Not Keyback hardware (500g is ok, 1kg is too much) : <a href="https://fr.aliexpress.com/item/1005005880175554.html" target="_blank">here</a></p>
 
 
 <table align="center">
