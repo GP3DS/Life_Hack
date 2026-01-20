@@ -40,23 +40,23 @@
     <td colspan=2 align=center>HArdware</td>
   </tr>
   <tr>
-    <td align="center">M3 Threaded Insert<br> (M3x5mmx4mm)/td>
+    <td align="center">M3 Threaded Insert<br> (M3x5mmx4mm)</td>
     <td align="center">6</td>
   </tr>
   <tr>
-    <td align="center">BHC m3x8/td>
+    <td align="center">BHC m3x8</td>
     <td align="center">2</td>
   </tr>
   <tr>
-    <td align="center">BHC m3x20/td>
+    <td align="center">BHC m3x20</td>
     <td align="center">2</td>
   </tr>
   <tr>
-    <td align="center">CHC m3x10/td>
+    <td align="center">CHC m3x10</td>
     <td align="center">2</td>
   </tr>
   <tr>
-    <td align="center">CHC m3x8/td>
+    <td align="center">CHC m3x8</td>
     <td align="center">2</td>
   </tr>
 </table>
