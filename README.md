@@ -28,4 +28,14 @@ Some creations to make life easier
     <td align="center">Leds Hexa Leds Flush-fitting ceiling lamp<br>
     </td>   
   </tr>
+  <tr>
+    <td align="center">
+	<a href="./Not_Keyback_StealthPress">Not_Keyback_StealthPress
+	  <br>
+	  <img src="https://github.com/GP3DS/Life_Hack/blob/main/Not_Keyback_StealthPress/Images/concept_screenshot_preview.png" alt="1" width=300px>
+	</a>
+    </td>
+    <td align="center">Compact mount for "not keyback" for the stealpress<br>
+    </td>   
+  </tr>
 </table>
