@@ -29,7 +29,7 @@
     <td colspan=2 align=center>3D Printed Parts</td>
   </tr>
   <tr>
-    <td align="center">Not_Keyback_By_GP3DS.stl/td>
+    <td align="center">Not_Keyback_By_GP3DS.stl</td>
     <td align="center">1</td>
   </tr>
   <tr>
